@@ -1,7 +1,7 @@
 {
   "MyAds": {
     "AppID": "ca-app-pub-3940256099942544~3347511713",
-    "InterstitialNL": "ca-app-pub-3940256099942544/1033173712",
+    "InterstitialNL": "/21857590943,23015343160/psa_remote_for_led_lights/interstitial",
      "clickCount": "4",
      "Timer":"6000",
      "ALreadyClick":"true"
